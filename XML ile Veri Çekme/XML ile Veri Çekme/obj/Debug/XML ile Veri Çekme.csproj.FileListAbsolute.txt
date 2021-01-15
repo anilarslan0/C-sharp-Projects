@@ -1,0 +1,10 @@
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\bin\Debug\XML ile Veri Çekme.exe.config
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\bin\Debug\XML ile Veri Çekme.exe
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\bin\Debug\XML ile Veri Çekme.pdb
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML ile Veri Çekme.csprojAssemblyReference.cache
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML_ile_Veri_Çekme.Form1.resources
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML_ile_Veri_Çekme.Properties.Resources.resources
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML ile Veri Çekme.csproj.GenerateResource.cache
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML ile Veri Çekme.csproj.CoreCompileInputs.cache
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML ile Veri Çekme.exe
+C:\Users\anlar\source\repos\XML ile Veri Çekme\XML ile Veri Çekme\obj\Debug\XML ile Veri Çekme.pdb
