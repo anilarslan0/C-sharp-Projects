@@ -1,0 +1,21 @@
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\World Map with Live Chart Geo Map.exe.config
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\World Map with Live Chart Geo Map.exe
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\World Map with Live Chart Geo Map.pdb
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.dll
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.pdb
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.xml
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.csprojAssemblyReference.cache
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World_Map_with_Live_Chart_Geo_Map.Form1.resources
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World_Map_with_Live_Chart_Geo_Map.Properties.Resources.resources
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.csproj.GenerateResource.cache
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.csproj.CoreCompileInputs.cache
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.csproj.CopyComplete
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.exe
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\obj\Debug\World Map with Live Chart Geo Map.pdb
+C:\Users\anlar\source\repos\World Map with Live Chart Geo Map\World Map with Live Chart Geo Map\bin\Debug\MAP.xml
