@@ -1,0 +1,13 @@
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.exe
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.deps.json
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.runtimeconfig.json
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.runtimeconfig.dev.json
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.dll
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp3.1\GameSimulation.pdb
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csprojAssemblyReference.cache
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfo.cs
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.dll
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.pdb
+C:\Users\anlar\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.genruntimeconfig.cache
